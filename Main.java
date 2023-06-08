@@ -13,7 +13,6 @@ public class Main
     public static void main(String[] args) {
         Guest g = new Guest("Yuhwan","kim","02102963880");
         
-        
         System.out.println(g.toString());
     }
 }
